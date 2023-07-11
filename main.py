@@ -1,11 +1,3 @@
-# - Crear un programa que permita el modelamiento de Clientes en una página de compras. 
-#       . Se debe utilizar el concepto de Programación Orientada a Objetos y lo aprendido en clase.
-#       . Se evaluará el uso correcto de atributos y métodos.
-
-# "La Clase Cliente debe tener mínimo 4 atributos y 2 métodos.
-# - Se debe utilizar el método __str__() para darle nombre a los objetos.
-#       . Es opcional el uso de herencia."
-
 from clientes import Cliente
 from productos import obtener_lista_productos
 
